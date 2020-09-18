@@ -1,3 +1,22 @@
 <resources>
+
+    // String Title
+    <string name="signUpTitle">Sign Up Form</string>
+
+    // String Text
     <string name="app_name">SignUpForm</string>
+    <string name="enterName">Enter Name:</string>
+    <string name="enterEmail">Enter Email:</string>
+    <string name="enterPW">Enter Password:</string>
+    <string name="enterPWconfirm">Confirm Password:</string>
+
+    // String Input
+    <string name="enterNameInput">Enter your name here</string>
+    <string name="enterEmailInput">Enter your email here</string>
+    <string name="enterPW1Input">Enter password</string>
+    <string name="enterPW2Input">Confirm password</string>
+
+    // String Save Button
+    <string name="saveButton">Save</string>
+
 </resources>
