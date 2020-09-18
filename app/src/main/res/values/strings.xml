@@ -1,5 +1,4 @@
 <resources>
-
     // String Title
     <string name="signUpTitle">Sign Up Form</string>
 
@@ -18,5 +17,4 @@
 
     // String Save Button
     <string name="saveButton">Save</string>
-
 </resources>
